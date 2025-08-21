@@ -2,7 +2,7 @@
 import React, { useEffect } from 'react';
 import { LanguageProvider } from './LanguageContext';
 import Navbar from './components/Navbar';
-import MentalHealthSupport from './components/home1';
+import MentalHealthSupport from './components/home1.jsx';
 import StatisticsImage from './components/StatisticsImage';
 import Mission from './components/Mission';
 import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
